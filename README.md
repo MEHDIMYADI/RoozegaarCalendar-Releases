@@ -12,7 +12,7 @@ Roozegaar Calendar is a Windows application built with WinUI 3. It helps users m
 - Efficient calendar and scheduling tools
 
 ## Download
-You can download the compiled versions from the [Releases](https://github.com/your-repository/releases) section.
+You can download the compiled versions from the [Releases](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases) section.
 
 ## License
 This software is proprietary. The source code is not publicly available.
@@ -38,7 +38,7 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 - ابزارهای کاربردی برای مدیریت تقویم
 
 ## دانلود
-نسخه‌های کامپایل شده را از [قسمت منتشر شده‌ها](https://github.com/your-repository/releases) دانلود کنید.
+نسخه‌های کامپایل شده را از [قسمت منتشر شده‌ها](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases) دانلود کنید.
 
 ## مجوز (لایسنس)
 این نرمافزار محدود و مخصوص است و کد منبع عمومی نمی‌شود.
