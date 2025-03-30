@@ -1,4 +1,6 @@
-<details>
+![Screenshot_2025-03-31_011203-removebg-preview](https://github.com/user-attachments/assets/3e1cd6ea-2b48-4cab-ae35-99c1bb042ad6)
+
+<details open>
   <summary>English</summary>
 
 # Roozegaar Calendar
