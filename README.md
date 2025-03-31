@@ -25,7 +25,44 @@ This software is proprietary. The source code is not publicly available.
 Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 
 ## Screenshots
-(Screenshots will be added here)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%201%20EN.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%201%20EN%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%202%20EN.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%202%20EN%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%203%20EN.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%203%20EN%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%204%20EN.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%204%20EN%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%205%20EN.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%205%20EN%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%206%20EN.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%206%20EN%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%207%20EN.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%207%20EN%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%208%20EN.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%208%20EN%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%209%20EN.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%209%20EN%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%2010%20EN.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%2010%20EN%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%2011%20EN.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%2011%20EN%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%2012%20EN.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%2012%20EN%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+</p>
 </details>
 
 <details>
@@ -51,6 +88,42 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 [روزگار](https://www.roozegaar.ir)
 
 ## اسکرین‌شات‌ها
-(اسکرینشاتها متعاقباً افزوده خواهند شد)
-
+<p dir="rtl" align="center">
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%201%20FA.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%201%20FA%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%202%20FA.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%202%20FA%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%203%20FA.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%203%20FA%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%204%20FA.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%204%20FA%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%205%20FA.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%205%20FA%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%206%20FA.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%206%20FA%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%207%20FA.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%207%20FA%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%208%20FA.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%208%20FA%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%209%20FA.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%209%20FA%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%2010%20FA.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%2010%20FA%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%2011%20FA.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%2011%20FA%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+  <a href="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%2012%20FA.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/Screenshot%2012%20FA%20Thumbnail.png" width="100" style="cursor: pointer;">
+  </a>
+</p>
 </details>
