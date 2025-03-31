@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License">
 </div>
+
+---
+
 <details open>
   <summary>English</summary>
 
@@ -46,6 +49,8 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 </div>
 </details>
 
+---
+
 <details>
   <summary>فارسی</summary>
 
@@ -85,3 +90,9 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 
 </div>
 </details>
+
+---
+
+<div align="center">
+  <strong>This project is carefully maintained and continuously improved with love by [@MEHDIMYADI].</strong>
+</div>
