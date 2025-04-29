@@ -26,7 +26,28 @@ Roozegaar Calendar is a Windows application built with WinUI 3. It helps users m
 You can download the compiled versions from the [Releases](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases) section.
 
 ## License
-This software is proprietary. The source code is not publicly available.
+
+**Freeware License – Roozegaar Calendar**  
+Copyright © 2025 **MEHDIMYADI**  
+All rights reserved.
+
+This software is provided **free of charge** for **personal and non-commercial use only**.  
+The source code is **not publicly available**.
+
+### Permissions
+You are allowed to:
+- Download and install the software for personal or non-commercial use.
+- Share the original, unmodified installer freely.
+
+### Restrictions
+You are **not** allowed to:
+- Reverse-engineer, decompile, or modify the software.
+- Sell, license, or distribute the software for commercial purposes.
+- Claim ownership or authorship of the software or any part thereof.
+
+> **Disclaimer:**  
+> This software is provided "AS IS", without warranty of any kind, express or implied.  
+> Use it at your own risk.
 
 ## Website
 Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
@@ -67,8 +88,27 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 ## دانلود
 نسخه‌های کامپایل شده را از [قسمت منتشر شده‌ها](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases) دانلود کنید.
 
-## مجوز (لایسنس)
-این نرمافزار محدود و مخصوص است و کد منبع عمومی نمی‌شود.
+## مجوز استفاده
+
+**مجوز نرم‌افزار رایگان – تقویم روزگار**  
+کپی‌رایت © ۲۰۲۵ **MEHDIMYADI**  
+کلیه حقوق محفوظ است.
+
+این نرم‌افزار **به‌صورت رایگان** و فقط برای **استفاده شخصی و غیرتجاری** ارائه می‌شود.  
+کد منبع این نرم‌افزار **در دسترس عموم قرار ندارد**.
+
+### مجاز هستید:
+- نرم‌افزار را برای استفاده شخصی یا غیرتجاری دانلود و نصب کنید.
+- نصب‌کننده اصلی و بدون تغییر نرم‌افزار را به‌صورت آزادانه به اشتراک بگذارید.
+
+### مجاز نیستید:
+- نرم‌افزار را مهندسی معکوس، دی‌کامپایل یا تغییر دهید.
+- نرم‌افزار را برای مقاصد تجاری بفروشید، مجوز دهید یا توزیع کنید.
+- مالکیت یا نویسندگی نرم‌افزار را ادعا کنید.
+
+> **سلب مسئولیت:**  
+> این نرم‌افزار «همان‌گونه که هست» (AS IS) و بدون هیچ‌گونه ضمانتی، صریح یا ضمنی، ارائه می‌شود.  
+> استفاده از آن با مسئولیت خود شما خواهد بود.
 
 ## وبسایت
 [روزگار](https://www.roozegaar.ir)
