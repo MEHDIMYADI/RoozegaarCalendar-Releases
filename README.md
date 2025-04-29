@@ -7,13 +7,15 @@
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License">
 </div>
 
+---
+
 | [License](#License) | [مجوز استفاده](#مجوز-استفاده) |
 |---------------------|------------------------------|
 
 ---
 
 <details open>
-  <summary>English</summary>
+  <summary>🌐 English</summary>
 
 # Roozegaar Calendar
 
@@ -76,7 +78,7 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 ---
 
 <details open>
-  <summary>فارسی</summary>
+  <summary>فارسی 🇮🇷</summary>
 
 # تقویم روزگار
 
