@@ -7,8 +7,9 @@
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License">
 </div>
 
-[License](#License)
-[مجوز استفاده](#مجوز-استفاده)
+| [License](#License) | [مجوز استفاده](#مجوز-استفاده) |
+|---------------------|------------------------------|
+
 ---
 
 <details open>
@@ -74,7 +75,7 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 
 ---
 
-<details>
+<details open>
   <summary>فارسی</summary>
 
 # تقویم روزگار
