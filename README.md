@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License">
 </div>
 
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
 ---
 
 <details open>
