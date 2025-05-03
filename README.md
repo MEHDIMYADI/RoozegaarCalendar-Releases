@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MEHDIMYADI/RoozegaarCalendar-Releases/refs/heads/main/image/RoozegaarCalendar.png" alt="Roozegaar Calendar" />
+  <h1>Roozegaar Calendar</h1>
 </div>
 
 <div align="center" style="margin-top: 20px;">
