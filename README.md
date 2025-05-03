@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Roozegaar Calendar</h1>
-  <p>تقویم فارسی برای ویندوز | Persian Calendar for Windows</p>
+  <p>نرم افزار جامع تقویم فارسی برای ویندوز | Comprehensive Persian Calendar Software For Windows</p>
 </div>
 <br>
 <div align="center" style="margin-top: 20px;">
