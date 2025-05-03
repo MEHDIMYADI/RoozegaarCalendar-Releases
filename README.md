@@ -7,6 +7,10 @@
   <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/Version-1.1.1.0-green?style=for-the-badge" alt="Version"></a>
   <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License"></a>
 </div>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases" ><img src="https://img.shields.io/badge/Windows-%20Portable%20x64-blue?logo=windows&logoColor=white&labelColor=gray" alt="Windows Portable x64"></a>
+  <a href="https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases" ><img src="https://img.shields.io/badge/Windows-%20Setup%20x64-blue?logo=windows&logoColor=white&labelColor=gray" alt="Windows Setup x64"></a>
+</div>
 
 ---
 
