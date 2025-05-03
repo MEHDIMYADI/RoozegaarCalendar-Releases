@@ -14,14 +14,16 @@
 
 ---
 
-<p align="center">
-  <a href="#License">
-    <img src="https://img.shields.io/badge/License-Click%20Here-yellow?style=for-the-badge&logo=appveyor" alt="License">
-  </a>
-  <a href="#مجوز-استفاده">
-    <img src="https://img.shields.io/badge/مجوز-اینجا%20کلیک-FFD700?style=for-the-badge&logo=appveyor" alt="مجوز استفاده">
-  </a>
-</p>
+---
+
+<div align="center">
+  
+| [License](#License) | [مجوز استفاده](#مجوز-استفاده) |
+|---------------------|------------------------------|
+
+</div>
+
+---
 
 
 ---
