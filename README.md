@@ -5,7 +5,7 @@
 <br>
 <div align="center" style="margin-top: 20px;">
   <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform"></a>
-  <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/Version-1.1.1.0-green?style=for-the-badge" alt="Version"></a>
+  <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/Version-1.2.1.0-green?style=for-the-badge" alt="Version"></a>
   <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License"></a>
 </div>
 <div align="center" style="margin-top: 20px;">
