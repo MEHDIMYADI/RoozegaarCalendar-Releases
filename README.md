@@ -24,6 +24,16 @@
 
 ---
 
+### Supported Operating Systems
+- **Windows 11 24H2 / 25H2** – Fully compatible, no additional steps required.
+- **Windows 10 (Build 19041.2193)** – May require installing dependencies.
+
+### If the system is missing dependencies, please install:
+- [Windows App SDK](https://learn.microsoft.com/en-us/windows/apps/winui/winui3/)
+- [.NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet)
+
+---
+
 <details open>
   <summary>🌐 English</summary>
 
