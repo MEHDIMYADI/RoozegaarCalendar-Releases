@@ -27,7 +27,7 @@
 ### Supported Operating Systems
 - **Windows 11 24H2 / 25H2** – Fully compatible, no additional steps required.
 - **Windows 10 (Build 19041.2193)** – May require installing dependencies.
-> Note that Windows 10 is no longer officially supported or receiving updates from Microsoft; upgrading to Windows 11 is recommended for the best experience and security.
+> Note: Windows 10 is no longer officially supported or receiving updates from Microsoft. Upgrading to Windows 11 is recommended for the best experience and security.
 
 ### If the system is missing dependencies, please install:
 - [Windows App SDK](https://learn.microsoft.com/en-us/windows/apps/winui/winui3/)
