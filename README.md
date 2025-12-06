@@ -98,7 +98,7 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 
 ---
 
-<details open>
+<details>
   <summary>فارسی 🇮🇷</summary>
 
 # تقویم روزگار
