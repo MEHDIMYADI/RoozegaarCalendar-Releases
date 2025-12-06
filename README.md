@@ -39,7 +39,6 @@
 Roozegaar Calendar is a Windows application built with WinUI 3. It helps users manage their schedules efficiently.
 
 ## Features
-- Supports Windows 10 and Windows 11
 - Available in both Installer and Portable versions
 - Clean and modern UI with WinUI 3
 - Efficient calendar and scheduling tools
@@ -102,7 +101,6 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 تقویم روزگار یک نرمافزار برای مدیریت برنامه‌های روزمره است که با WinUI 3 توسعه یافته است.
 
 ## ویژگی‌ها
-- پشتیبانی از Windows 10 و Windows 11
 - در دو نسخه ی نصبی (اینستالر) و پرتابل
 - طراحی مدرن و زیبا با WinUI 3
 - ابزارهای کاربردی برای مدیریت تقویم
