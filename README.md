@@ -3,23 +3,19 @@
   <p>نرم افزار جامع تقویم فارسی برای ویندوز | Comprehensive Persian Calendar Software For Windows</p>
 </div>
 <br>
-<div align="center" style="margin-top: 20px;">
+<div align="center">
   <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform"></a>
   <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/Version-1.6.1.8-green?style=for-the-badge" alt="Version"></a>
   <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License"></a>
 </div>
-<div align="center" style="margin-top: 20px;">
+<div align="center">
   <a href="https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases" ><img src="https://img.shields.io/badge/Windows-%20Portable%20x64-blue?logo=windows&logoColor=white&labelColor=gray" alt="Windows Portable x64"></a>
   <a href="https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases" ><img src="https://img.shields.io/badge/Windows-%20Setup%20x64-blue?logo=windows&logoColor=white&labelColor=gray" alt="Windows Setup x64"></a>
 </div>
-
----
-
+<br>
 <div align="center">
-  
-| [License](#License) | [مجوز استفاده](#مجوز-استفاده) |
-|---------------------|------------------------------|
-
+  <a href="#license" style="pointer-events: auto;"><img src="https://img.shields.io/badge/License-English-lightgrey?style=for-the-badge" alt="License English"></a>
+  <a href="#مجوز-استفاده" style="pointer-events: auto;"><img src="https://img.shields.io/badge/License-Persian-lightgrey?style=for-the-badge" alt="License Persian"></a>
 </div>
 
 ---
