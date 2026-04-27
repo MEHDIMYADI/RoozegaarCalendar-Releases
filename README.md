@@ -12,6 +12,9 @@
   <a href="https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases" ><img src="https://img.shields.io/badge/Windows-%20Portable%20x64-blue?logo=windows&logoColor=white&labelColor=gray" alt="Windows Portable x64"></a>
   <a href="https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases" ><img src="https://img.shields.io/badge/Windows-%20Setup%20x64-blue?logo=windows&logoColor=white&labelColor=gray" alt="Windows Setup x64"></a>
 </div>
+<div align="center">
+<a href="https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases" ><img src="https://img.shields.io/github/downloads/MEHDIMYADI/RoozegaarCalendar-Releases/latest/total?logo=github" alt="Windows Setup x64"></a>
+</div>
 <br>
 <div align="center">
   <a href="#license" style="pointer-events: auto;"><img src="https://img.shields.io/badge/License-English-lightgrey?style=for-the-badge" alt="License English"></a>
